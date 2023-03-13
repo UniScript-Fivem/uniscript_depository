@@ -1,4 +1,3 @@
-
 # Uniscript Depository
 This is a script dedicated to creating and managing a repository.
 
@@ -40,6 +39,8 @@ Config.Containers = {
 		openText = "~y~Press~r~[E] ~y~to open deposit 1"
 	},    
 ```
+- Dependency: esx, esx_contex, ox_inventory
+
 **P.S: The owner does not need the key to open the deposit**
 
 # uniscript_depository
